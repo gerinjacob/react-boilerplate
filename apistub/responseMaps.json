@@ -1,0 +1,12 @@
+[
+  {
+    "endpoint": "/api/message",
+    "methods": ["get"],
+    "get": [
+      {
+        "status": 200,
+        "body": "/response/message/get_success.json"
+      }
+    ]
+  }
+]

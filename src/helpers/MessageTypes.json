@@ -1,0 +1,5 @@
+{
+  "RESPONSE_SUCCESS": "success",
+  "RESPONSE_WARNING": "warning",
+  "RESPONSE_ERROR": "error"
+}
