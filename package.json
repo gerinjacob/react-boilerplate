@@ -2,7 +2,7 @@
   "name": "sample-react-app",
   "version": "0.0.1",
   "description": "Sample React App",
-  "author": "Gerin Jacob",
+  "author": "Gerin",
   "scripts": {
     "setup": "node ./scripts/setup.js",
     "start-dev": "concurrently --kill-others \"npm run start-dev-app\" \"npm run start-dev-api\"",
